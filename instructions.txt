@@ -1,0 +1,34 @@
+Program Title-Year Planner(2016).                                                                   
+This program is valid only for the year 2016..                                                      
+to make it usable in other year,just change the dates in the months.                                
+FOR GRAPHIC ERROR:-                                                                                 
+-------------------                                                                                 
+THE TWO FUNCTION NAMED ENTRY() & COUNT DOWN()IN WHICH GRAPHICS HAVE BEEN USED,                      
+ ARE ONLY FOR THE DEMONSTRATION PURPOSE,USER CAN RUN THE PROGRAM                                    
+ ,WITHOUT CALLING THE TWO GRAPHIC FUNCTIONS NAMED ENTRY() & COUNTDOWN() 
+
+
+
+
+how to open the graphics?
+-here's the soln.....
+
+step 1-just go to C:\TurboC++\Disk\TurboC3\BGI.
+step 2-copy the file named EGAVGA.BGI and paste it into the BIN folder.
+the the graphics will run on your pc.
+
+
+
+
+
+if problem not solved then-
+go to program code -----go to void main()------and make the comments to the two calls....entry();  and countdown();
+the the program will run only in text mode...
+
+
+
+
+THNK YOU ......ENJOY
+
+-SANDEEP SHARMA(Developer)
+       
